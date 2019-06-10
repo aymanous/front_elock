@@ -1,5 +1,4 @@
 # FRONTEND ELOCK
-# -----------------------------
 
 # Etapes d'utilisation :
 
