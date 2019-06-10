@@ -14,6 +14,6 @@
   - JS (+ JQUERY)  
 
 ## Dépendances :
-  Ce module du projet eLock nécessite au préalable le lancement :
+  Ce module du projet eLock nécessite le lancement préalable :
   - de l'API eLock (+BDD)
   - du programme principal de la RPI
