@@ -1,0 +1,102 @@
+body {
+    padding: 30px;
+    margin: 0 auto !important;
+    width: 1000px;
+}
+
+#logo {
+    font-size: 45px;
+    margin: -15px;
+    font-weight: lighter;
+    color: #a67301;
+    margin-bottom: 10px;
+}
+
+.table {
+    font-size: 15px;
+}
+
+.delete_badge {
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.btn_gen {
+    background: #EEE;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    border-right: solid 2px #FFF;
+    font-weight: lighter;
+    margin-bottom: 3px;
+}
+
+.modes_bloc {
+    margin-bottom: 10px !important;
+}
+
+.row {
+    margin: 0 !important;
+}
+
+.bloc_title {}
+
+#notification {
+    background: #ddf4dd;
+    padding: 5px 15px;
+    margin-top: 3px;
+    font-weight: lighter;
+    font-size: 14px;
+    color: #4d7346;
+}
+
+#currentMode {
+    color: green;
+    font-size: 15px;
+}
+
+.mode_bloc {
+    text-align: right;
+    line-height: 17px;
+}
+
+.title_mode {
+    font-size: 13px;
+}
+
+#lastLog {
+    padding: 5px 10px;
+    background: #e6b400;
+    font-size: 14px;
+    color: #ffffff;
+    line-height: 22px;
+    font-weight: lighter;
+}
+
+.log_bloc {
+    background: #EEE;
+    border-right: solid 3px #FFF;
+}
+
+.title_log {
+    background: #e6b400;
+    padding: 5px 10px;
+    font-size: 14px;
+    color: #ffffff;
+    line-height: 22px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.refresh_btn {
+    cursor: pointer;
+    text-align: center;
+    background: #ffea9f;
+    font-size: 12px;
+    color: #5e3d00;
+    line-height: 34px;
+}
+
+input {
+    border: 0;
+}
