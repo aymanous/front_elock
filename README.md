@@ -12,3 +12,8 @@
   - HTML (+ LIBRAIRIES BOOTSTRAP)
   - CSS (+ LIBRAIRIES BOOTSTRAP)
   - JS (+ JQUERY)  
+
+## Dépendances :
+  Ce module du projet eLock nécessite au préalable le lancement :
+  - de l'API eLock (+BDD)
+  - du programme principal de la RPI
